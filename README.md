@@ -1,1 +1,1 @@
-# AzureOpenAI Crash Course
+# RAG Chatbot Application using Azure AI studio
