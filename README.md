@@ -1,4 +1,6 @@
+
 # RAG Chatbot Application using Azure AI studio
+
 
 This repository contains a small demonstration of how to build a Retrieval
 Augmented Generation (RAG) chatbot with the services available in **Azure AI
@@ -42,4 +44,3 @@ Then open your browser at `http://localhost:5000` to interact with the bot.
 
 This project is released under the MIT License.  See [LICENSE](LICENSE) for
 details.
-
