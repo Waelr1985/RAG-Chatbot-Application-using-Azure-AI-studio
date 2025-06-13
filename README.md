@@ -1,4 +1,7 @@
 
+# RAG Chatbot Application using Azure AI studio
+
+
 This repository contains a small demonstration of how to build a Retrieval
 Augmented Generation (RAG) chatbot with the services available in **Azure AI
 Studio**.  The main entry point is a simple Flask application (`app.py`) that
